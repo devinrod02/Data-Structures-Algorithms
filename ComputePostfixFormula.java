@@ -1,7 +1,7 @@
 import java.util.Queue;
 import java.util.Stack;
 
-public class ComputePostFixFormula
+public class ComputePostfixFormula
 {
   public static void printName()
   {
